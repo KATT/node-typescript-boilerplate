@@ -1,0 +1,21 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "lodash/lodash.d.ts": {
+      "commit": "e84f8a2397f9efb062b6f15e1434cdc11d9cfd34"
+    },
+    "chai/chai.d.ts": {
+      "commit": "ebd11538775027800bb8d7bd44cfc2f3ef1acf56"
+    },
+    "mocha/mocha.d.ts": {
+      "commit": "ebd11538775027800bb8d7bd44cfc2f3ef1acf56"
+    },
+    "node/node.d.ts": {
+      "commit": "e84f8a2397f9efb062b6f15e1434cdc11d9cfd34"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "filesGlob": [
+        "./**/*.ts",
+        "!./node_modules/**/*.ts"
+    ],
+    "files": [
+        "./app/app.ts",
+        "./app/env.ts",
+        "./app/lib/logger.ts",
+        "./main.d.ts",
+        "./test/hello_test.ts",
+        "./typings/chai/chai.d.ts",
+        "./typings/lodash/lodash.d.ts",
+        "./typings/mocha/mocha.d.ts",
+        "./typings/node/node.d.ts",
+        "./typings/tsd.d.ts",
+        "./typings/winston/winston.d.ts"
+    ],
+    "compileOnSave": false,
+    "compilerOptions": {}
+}

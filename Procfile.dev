@@ -1,0 +1,4 @@
+typescript: ./node_modules/grunt-cli/bin/grunt ts:dev
+mocha: ./node_modules/mocha/bin/mocha --watch --recursive
+nodemon: ./node_modules/nodemon/bin/nodemon.js --debug ./app/app.js
+node-inspector: ./node_modules/node-inspector/bin/inspector.js
